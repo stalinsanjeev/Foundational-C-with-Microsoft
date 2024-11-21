@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/b.sanjeev/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/Starter.csproj": {}
+  },
+  "projects": {
+    "/Users/b.sanjeev/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/Starter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/b.sanjeev/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/Starter.csproj",
+        "projectName": "Starter",
+        "projectPath": "/Users/b.sanjeev/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/Starter.csproj",
+        "packagesPath": "/Users/b.sanjeev/.nuget/packages/",
+        "outputPath": "/Users/b.sanjeev/Downloads/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/b.sanjeev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
