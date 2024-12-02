@@ -1,7 +1,7 @@
 # Foundational C# Learning Modules
 
 **Description:**  
-This repository contains learning modules and projects from the **Foundational C# with Microsoft Certification** course offered by freeCodeCamp.org. Each module focuses on key C# programming concepts with challenges and guided projects to reinforce learning.
+My learning journey has been amazing in completing the Foundational C# certificate. This repository contains learning modules and projects from the **Foundational C# with Microsoft Certification** course offered by Microsoft. Each module focuses on key C# programming concepts with challenges and guided projects to reinforce learning.
 
 
 
